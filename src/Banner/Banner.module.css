@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .background {
+    color: #fff;
+    background-image: url("../../public/Hero-Image.png");
+    background-size: cover;
+    padding: 280px 0 100px 90px;
+    margin: 50px 0 0 0;
+  }
+
+  @media (min-width: 320px) and (max-width: 767px){
+    .background {
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0px 0 50px 10px;
+    margin: 70px 0 0 0;
+    }
+  }
+
+  .viewProject {
+    background-color: #70259B;
+    border-radius: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 10px;
+    color: #fff;
+  }

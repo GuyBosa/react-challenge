@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .cases{
+    margin: 50px 0 30px 0;
+    display: flex !important;
+  }
+  @media (min-width: 320px) and (max-width: 767px){
+    .subtext{
+      width: 140px;
+    }
+    .cases{
+      margin: 30px 0 30px 0 !important;
+    }
+    .casestudies {
+        padding: 30px 0 20px 0 !important;
+    }
+    .olympian, .savings, .skhokho{
+      width: 335px !important;
+    }
+  }
+
+  .underline{
+    width: 30px !important;
+    border-bottom: 4px solid #70259B;
+    margin: 0 0 0 10px;
+  }
+
+  .olympian {
+    width: 400px;
+    height: 290px;
+    color: #fff;
+    background: url("../../public/olympian.png"), lightgray 50% / cover no-repeat;
+  }
+
+  .savings {
+    width: 400px;
+    height: 290px;
+    color: #fff;
+    background: url("../../public/dragon.png"), lightgray 50% / cover no-repeat;
+  }
+
+  .skhokho {
+    width: 400px;
+    height: 290px;
+    color: #fff;
+    background: url("../../public/skhokho.png"), lightgray 50% / cover no-repeat; 
+  }
+
+  .casestudies {
+    padding: 150px 0 30px 0 !important;
+  }
+
+  
