@@ -1,6 +1,6 @@
 # ReactJS Challenge
 
-This responsive Single-page app was built with Tailwind CSS Carousel, Bootstrap 5, infinite-react-carousel and ReactJs [Create React App](https://github.com/facebook/create-react-app).
+This responsive Single-page app was built with react-slick slick-carousel, Tailwind CSS Carousel, Bootstrap 5, infinite-react-carousel and ReactJs [Create React App](https://github.com/facebook/create-react-app).
 
 ![screencapture-localhost-3000-2023-10-12-04_44_56](https://github.com/GuyBosa/react-challenge/assets/40579537/3492cd04-2350-4cf6-b44e-69ae9932d87f)
 
